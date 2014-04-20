@@ -21,10 +21,10 @@ document.body.append(
 Produces:
 
 <pre>
-<body>
-	<p></p>
+&lt;body&gt;
+	&lt;p&gt;&lt;/p&gt;
 	"hello"
-</body>
+&lt;/body&gt;
 </pre>
 
 
@@ -45,10 +45,10 @@ document.body.append(
 Produces:
 
 <pre>
-<body>
-	<p>hello</p>
-	<div>
-		<p>inside</p>
-	</div>
-</body>
+&lt;body&gt;
+	&lt;p&gt;hello&lt;/p&gt;
+	&lt;div&gt;
+		&lt;p&gt;inside&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/body&gt;
 </pre>
